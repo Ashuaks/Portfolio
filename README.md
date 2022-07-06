@@ -2,27 +2,31 @@
 
 # Portfolio
 
-> Description the project.
-
-
+> Developed Portfolio for mobile project using html, css. Used mobile first approach.
+> 
 ## Built With
+- html
+- css
+- Webhint
+- Styleint
+- Technologies
 
-- Major languages
-- Frameworks
-- Technologies used
+## Authors
 
-## Live Demo (if available)
+👤 **Author1**
 
-[Live Demo Link](https://livedemo.com)
+- GitHub: [Ashuaks](https://github.com/Ahsan12356)
+- gmail: ashuakieblessegbe@mail.com
 
+## 🤝 Contributing
 
-## Getting Started
+Contributions, issues, and feature requests are welcome!
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Feel free to check the [issues page](../../issues/).
 
+## Show your support
 
-To get a local copy up and running follow these simple example steps.
+Give a ⭐ if you like this project!
 
 ### Prerequisites
 
@@ -35,8 +39,6 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-
-
 
 ## Authors
 
