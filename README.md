@@ -7,16 +7,6 @@
 ## Built With
 - html
 - css
-- Webhint
-- Styleint
-- Technologies
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [Ashuaks](https://github.com/Ahsan12356)
-- gmail: ashuakieblessegbe@mail.com
 
 ## 🤝 Contributing
 
@@ -28,31 +18,13 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐ if you like this project!
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Ashuask](https://github.com/Ashuaks)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- email: ashuakieblessegbe@mail.com
 
 ## 🤝 Contributing
 
