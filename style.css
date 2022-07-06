@@ -34,7 +34,6 @@ body {
   cursor: pointer;
 }
 
-
 .headline_sect {
   background-image: url("images/header-shapes-mobile.png");
   background-repeat: no-repeat;
@@ -82,4 +81,3 @@ body {
   align-items: baseline;
   margin-bottom: 292px;
 }
-
