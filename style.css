@@ -81,10 +81,12 @@ body {
   align-items: baseline;
   margin-bottom: 292px;
 }
+
 .middle {
   width: 375px;
   background: #f7f7f9;
 }
+
 .cards {
   display: grid;
   grid-template-rows: auto auto auto auto;
