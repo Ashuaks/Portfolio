@@ -130,16 +130,18 @@
             </div>
         </div> 
     </section>
-    <section class="contact_container">
-        <h1 class="cnt">Contact me</h1>
-        <p class="apr">if you have an aplicant you are interested in developing a feature that you need built or a project that needs coding. I'd love to help with it</p>
-        <form class="Placeholder">
-            <input type="text" class="Yerem" placeholder="Yeremias"><br>
-            <input type="text" class="nata" placeholder="natajayanji4@gmail.com"> 
-            </form>
-            <textarea class="name">Enter your name here</textarea><br>
-            <button class="touch" type="button">Get It touch</button>       
-    </section>
+    <footer>
+        <div class="contact_container">
+                <h1 class="cnt">Contact me</h1>
+                <p class="apr">if you have an aplicant you are interested in developing a feature that you need built or a project that needs coding. I'd love to help with it</p>
+            <form class="placeholder">
+                <input type="text" class="fname" name="fname" placeholder="Name" required minlength="1" maxlength="30">
+                <input type="email" name="email" class="email" placeholder="Your email" required>
+                <textarea name="message" class="msg" form="contact_form" placeholder="Write your message here" required rows="6" minlength="1" maxlength="500"></textarea>
+                <input type="submit" class="touch" value="Get in touch"> 
+            </form> 
+        </div>    
+    </footer>
 
 </body>
 </html>
