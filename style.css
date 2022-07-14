@@ -395,7 +395,6 @@ body {
   background-position: 100% 0;
   position: relative;
   right: 20px;
-  
 }
 
 .cnt {
@@ -484,15 +483,13 @@ body {
   color: #fff;
   border: 1px solid white;
 }
+
 .shape {
-  Width: 134px;
-  Height: 5px;
-  Top: 21px;
+  width: 134px;
+  height: 5px;
+  top: 21px;
   border-radius: 10px;
   bottom: 8px;
   margin-left: 70px;
   color: #0d151e;
 }
-
-
-
